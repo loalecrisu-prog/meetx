@@ -1,0 +1,5 @@
+Add to pubspec.yaml under dependencies:
+  google_sign_in: ^6.2.1
+
+Then run:
+  flutter pub get

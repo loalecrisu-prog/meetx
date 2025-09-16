@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405724878513",
+    "project_id": "meetx-4eb40",
+    "storage_bucket": "meetx-4eb40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405724878513:android:7fd3985043ea82e727f490",
+        "android_client_info": {
+          "package_name": "com.meetx.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvWolqUOUbWcnh5c0aqi6Wb-Wrlw9ykk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
